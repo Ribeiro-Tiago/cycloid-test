@@ -1,0 +1,19 @@
+ul {
+  padding: 0;
+  list-style: none;
+  width: 60%;
+  margin: 20px auto 0;
+}
+
+button.add {
+  margin: auto;
+  margin-top: 20px;
+  display: block;
+}
+
+h3.error {
+  text-align: center;
+  color:#e40101;
+  margin-top: 40px;
+  font-weight: bold;
+}

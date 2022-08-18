@@ -1,0 +1,31 @@
+.details {
+  background-color: #f7f7f7;
+  padding: 12px 18px;
+  margin: auto;
+  margin-top: 40px;
+  width: 40%;
+  border-radius: 10px;;
+}
+
+.details h2 {
+  margin-top: 0;
+}
+
+.details h2 a,
+.details h2 a:hover,
+.details h2 a:visited,
+.details h2 a:active {
+  text-decoration: none;
+  color: black;
+}
+
+.details .group  {
+  margin-bottom: 10px;
+  justify-content: space-between;
+  align-items: center;
+  display: flex
+}
+
+.details label {
+  font-weight: bold;
+}
